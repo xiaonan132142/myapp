@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5dc6326c-3b31-4f91-a74e-4f16a5650d43" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5dc6326c-3b31-4f91-a74e-4f16a5650d43" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -298,7 +295,7 @@
       <workItem from="1564020296509" duration="245000" />
       <workItem from="1566625956574" duration="450000" />
       <workItem from="1566797292605" duration="3535000" />
-      <workItem from="1566802498112" duration="486000" />
+      <workItem from="1566802498112" duration="743000" />
     </task>
     <task id="LOCAL-00001" summary="taro 版本修复">
       <created>1566800813933</created>
@@ -307,14 +304,22 @@
       <option name="project" value="LOCAL" />
       <updated>1566800813933</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add readme">
+      <created>1566803019870</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1566803019870</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40461000" />
+    <option name="totallyTimeSpent" value="40718000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="385" y="23" width="1249" height="982" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49827784" visible="true" weight="0.46361408" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -362,7 +367,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="taro 版本修复" />
-    <option name="LAST_COMMIT_MESSAGE" value="taro 版本修复" />
+    <MESSAGE value="add readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="add readme" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/pages/events.js" />
