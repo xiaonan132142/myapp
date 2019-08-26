@@ -5,11 +5,10 @@ import AddCut from '../addcut/addcut'
 const url = require('../../assets/img/1.jpg')
 export default class foodList extends Component{
   render(){
-    let {datalist} = this.props
     return(
       <View>
         {
-          datalist.map((item)=>{
+          this.props.datalist.map((item)=>{
             return(
               <View className="block-wrap">
                 <Image className="food-img" src={url} />
@@ -28,5 +27,5 @@ export default class foodList extends Component{
   }
 }
 foodList.defaultProps={
-
+  datalist:[],
 }
